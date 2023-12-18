@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:wght@400;500;700&family=Poppins:wght@300;400;600;700;800&display=swap');
+
+a{
+    text-decoration: underline;
+}
+
+.fa{
+    color: red;
+}
+
+.box{
+    background-image:linear-gradient(skyblue,pink,green);
+    padding: 30px 60px;
+    height:800px;
+    
+}
+
+.box-part{
+    background-color:bisque;
+    margin: 15px 20px 25px 20px;
+    padding: 50px 10px;
+    text-align: center;
+    width:350px;
+    border:3px solid black;
+    box-shadow:6px 8px lightblue;
+    
+    
+}
+.col-md-4
+{
+    gap:50px;
+}
